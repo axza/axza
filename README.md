@@ -26,10 +26,11 @@ Here are some ideas to get you started:
   <a href="https://axell.de" target="_blank">
     <img src="https://img.shields.io/static/v1?message=axell.de&logo=codesandbox&label=&color=040404&logoColor=b4da55&labelColor=&style=for-the-badge" height="40" alt="random logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <a href="oeLLph_137" target="_blank">
+  <a href="https://www.linkedin.com/in/axellorenzen-zabel/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
+  <!--<a href="oeLLph_137" target="_blank">
+  </a>-->
     <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="matrix logo"  />
-  </a>
 </div>
 
 ###
